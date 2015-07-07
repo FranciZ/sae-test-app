@@ -13,3 +13,8 @@ function thisFunction(){
 
 }
 ```
+
+
+## About the project
+
+This is some text about the project
